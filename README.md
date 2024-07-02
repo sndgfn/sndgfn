@@ -38,6 +38,6 @@
 I'm a passionate web developer with experience in building dynamic and responsive web applications. 
 My skill set includes:
 
-Frontend: HTML, CSS, JavaScript, React
-Backend: Node.js, Express, REST APIs
+Frontend: HTML, CSS, JavaScript, React <br>
+Backend: Node.js, Express, REST APIs <br>
 Databases: MongoDB, PostgreSQL
