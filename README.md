@@ -1,3 +1,4 @@
+![logo](https://github.com/sndgfn/sndgfn/blob/main/Screenshot%202024-07-02%20162416.png)
 <h1 align="center">Hi 👋, I'm MD. ANIK</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh </h3>
 
