@@ -32,3 +32,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sndgfn&show_icons=true&locale=en" alt="sndgfn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sndgfn&" alt="sndgfn" /></p>
+
+
+👋 Hi there!
+I'm a passionate web developer with experience in building dynamic and responsive web applications. 
+My skill set includes:
+
+Frontend: HTML, CSS, JavaScript, React
+Backend: Node.js, Express, REST APIs
+Databases: MongoDB, PostgreSQL
